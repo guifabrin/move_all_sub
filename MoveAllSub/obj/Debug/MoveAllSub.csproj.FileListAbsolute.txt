@@ -1,0 +1,7 @@
+D:\home\Dropbox\projetos\MoveAllSub\MoveAllSub\bin\Debug\MoveAllSub.exe.config
+D:\home\Dropbox\projetos\MoveAllSub\MoveAllSub\bin\Debug\MoveAllSub.exe
+D:\home\Dropbox\projetos\MoveAllSub\MoveAllSub\bin\Debug\MoveAllSub.pdb
+D:\home\Dropbox\projetos\MoveAllSub\MoveAllSub\obj\Debug\MoveAllSub.csprojResolveAssemblyReference.cache
+D:\home\Dropbox\projetos\MoveAllSub\MoveAllSub\obj\Debug\MoveAllSub.csproj.CoreCompileInputs.cache
+D:\home\Dropbox\projetos\MoveAllSub\MoveAllSub\obj\Debug\MoveAllSub.exe
+D:\home\Dropbox\projetos\MoveAllSub\MoveAllSub\obj\Debug\MoveAllSub.pdb
